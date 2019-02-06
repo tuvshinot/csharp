@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Open_tk_triangle\lab2\bin\Debug\lab2.exe.config
+C:\Users\user\source\repos\Open_tk_triangle\lab2\bin\Debug\lab2.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab2\bin\Debug\lab2.pdb
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.polygram.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.pdb
+C:\Users\user\source\repos\Open_tk_triangle\lab2\obj\Debug\lab2.csprojAssemblyReference.cache

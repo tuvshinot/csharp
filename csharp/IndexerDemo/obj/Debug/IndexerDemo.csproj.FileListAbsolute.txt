@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+C:\Users\user\source\repos\csharp\IndexerDemo\bin\Debug\IndexerDemo.exe
+C:\Users\user\source\repos\csharp\IndexerDemo\bin\Debug\IndexerDemo.pdb
+C:\Users\user\source\repos\csharp\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\IndexerDemo\obj\Debug\IndexerDemo.exe
+C:\Users\user\source\repos\csharp\IndexerDemo\obj\Debug\IndexerDemo.pdb

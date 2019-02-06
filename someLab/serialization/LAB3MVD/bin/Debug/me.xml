@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfLeague xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <League>
+    <_clubs>
+      <Club>
+        <_playerSet>
+          <Player>
+            <fName>Виталий</fName>
+            <sName>Булыга</sName>
+            <position>Нападающий</position>
+            <nation>Беларус</nation>
+            <fullYears>37</fullYears>
+            <growth>176</growth>
+            <weight>72</weight>
+          </Player>
+        </_playerSet>
+        <fullName>Днепр</fullName>
+        <stadium>Спартак, Могилёв</stadium>
+        <foundYear>1960</foundYear>
+        <budget>0.8</budget>
+        <playersNum>1</playersNum>
+      </Club>
+    </_clubs>
+    <name>Первая лига</name>
+    <country>Беларусь</country>
+    <foundYear>1992</foundYear>
+    <teamNum>1</teamNum>
+  </League>
+</ArrayOfLeague>

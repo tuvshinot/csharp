@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\lab3\bin\Debug\lab3.exe.config
+C:\Users\user\source\repos\csharp\lab3\bin\Debug\lab3.exe
+C:\Users\user\source\repos\csharp\lab3\bin\Debug\lab3.pdb
+C:\Users\user\source\repos\csharp\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\lab3\obj\Debug\lab3.exe
+C:\Users\user\source\repos\csharp\lab3\obj\Debug\lab3.pdb

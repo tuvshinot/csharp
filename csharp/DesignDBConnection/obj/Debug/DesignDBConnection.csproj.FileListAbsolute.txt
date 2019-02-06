@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\DesignDBConnection\obj\Debug\DesignDBConnection.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\DesignDBConnection\obj\Debug\DesignDBConnection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\DesignDBConnection\bin\Debug\DesignDBConnection.exe.config
+C:\Users\user\source\repos\csharp\DesignDBConnection\bin\Debug\DesignDBConnection.exe
+C:\Users\user\source\repos\csharp\DesignDBConnection\bin\Debug\DesignDBConnection.pdb
+C:\Users\user\source\repos\csharp\DesignDBConnection\obj\Debug\DesignDBConnection.exe
+C:\Users\user\source\repos\csharp\DesignDBConnection\obj\Debug\DesignDBConnection.pdb

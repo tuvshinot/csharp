@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\StackOverFlow\bin\Debug\StackOverFlow.exe.config
+C:\Users\user\source\repos\csharp\StackOverFlow\bin\Debug\StackOverFlow.exe
+C:\Users\user\source\repos\csharp\StackOverFlow\bin\Debug\StackOverFlow.pdb
+C:\Users\user\source\repos\csharp\StackOverFlow\obj\Debug\StackOverFlow.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\StackOverFlow\obj\Debug\StackOverFlow.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\StackOverFlow\obj\Debug\StackOverFlow.exe
+C:\Users\user\source\repos\csharp\StackOverFlow\obj\Debug\StackOverFlow.pdb

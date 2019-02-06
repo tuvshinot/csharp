@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\StackDesign\bin\Debug\StackDesign.exe.config
+C:\Users\user\source\repos\csharp\StackDesign\bin\Debug\StackDesign.exe
+C:\Users\user\source\repos\csharp\StackDesign\bin\Debug\StackDesign.pdb
+C:\Users\user\source\repos\csharp\StackDesign\obj\Debug\StackDesign.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\StackDesign\obj\Debug\StackDesign.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\StackDesign\obj\Debug\StackDesign.exe
+C:\Users\user\source\repos\csharp\StackDesign\obj\Debug\StackDesign.pdb

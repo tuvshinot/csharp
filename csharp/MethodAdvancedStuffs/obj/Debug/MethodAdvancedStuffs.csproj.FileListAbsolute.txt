@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\bin\Debug\MethodAdvancedStuffs.exe.config
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\bin\Debug\MethodAdvancedStuffs.exe
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\bin\Debug\MethodAdvancedStuffs.pdb
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\obj\Debug\MethodAdvancedStuffs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\obj\Debug\MethodAdvancedStuffs.exe
+C:\Users\user\source\repos\csharp\MethodAdvancedStuffs\obj\Debug\MethodAdvancedStuffs.pdb

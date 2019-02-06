@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\bin\Debug\EventAndDelegateDemo.exe.config
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\bin\Debug\EventAndDelegateDemo.exe
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\bin\Debug\EventAndDelegateDemo.pdb
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\obj\Debug\EventAndDelegateDemo.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\obj\Debug\EventAndDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\obj\Debug\EventAndDelegateDemo.exe
+C:\Users\user\source\repos\csharp\EventAndDelegateDemo\obj\Debug\EventAndDelegateDemo.pdb

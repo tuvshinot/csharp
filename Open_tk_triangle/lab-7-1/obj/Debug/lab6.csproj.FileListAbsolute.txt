@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\bin\Debug\lab-7-1.exe.config
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\bin\Debug\lab-7-1.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\bin\Debug\lab-7-1.pdb
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab_7_1.Form1.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab_7_1.Properties.Resources.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab-7-1.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab-7-1\obj\Debug\lab-7-1.pdb

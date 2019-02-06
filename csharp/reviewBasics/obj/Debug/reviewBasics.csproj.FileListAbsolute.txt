@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\reviewBasics\reviewBasics\bin\Debug\reviewBasics.exe.config
+C:\Users\user\source\repos\reviewBasics\reviewBasics\bin\Debug\reviewBasics.exe
+C:\Users\user\source\repos\reviewBasics\reviewBasics\bin\Debug\reviewBasics.pdb
+C:\Users\user\source\repos\reviewBasics\reviewBasics\obj\Debug\reviewBasics.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\reviewBasics\reviewBasics\obj\Debug\reviewBasics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\reviewBasics\reviewBasics\obj\Debug\reviewBasics.exe
+C:\Users\user\source\repos\reviewBasics\reviewBasics\obj\Debug\reviewBasics.pdb
+C:\Users\user\source\repos\csharp\reviewBasics\bin\Debug\reviewBasics.exe.config
+C:\Users\user\source\repos\csharp\reviewBasics\bin\Debug\reviewBasics.exe
+C:\Users\user\source\repos\csharp\reviewBasics\bin\Debug\reviewBasics.pdb
+C:\Users\user\source\repos\csharp\reviewBasics\obj\Debug\reviewBasics.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\reviewBasics\obj\Debug\reviewBasics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\reviewBasics\obj\Debug\reviewBasics.exe
+C:\Users\user\source\repos\csharp\reviewBasics\obj\Debug\reviewBasics.pdb

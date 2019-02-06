@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\OOP-2\bin\Debug\OOP-2.exe.config
+C:\Users\user\source\repos\csharp\OOP-2\bin\Debug\OOP-2.exe
+C:\Users\user\source\repos\csharp\OOP-2\bin\Debug\OOP-2.pdb
+C:\Users\user\source\repos\csharp\OOP-2\obj\Debug\OOP-2.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\OOP-2\obj\Debug\OOP-2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\OOP-2\obj\Debug\OOP-2.exe
+C:\Users\user\source\repos\csharp\OOP-2\obj\Debug\OOP-2.pdb

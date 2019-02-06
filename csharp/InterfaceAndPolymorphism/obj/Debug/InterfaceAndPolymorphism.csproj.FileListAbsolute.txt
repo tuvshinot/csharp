@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\bin\Debug\InterfaceAndPolymorphism.exe.config
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\bin\Debug\InterfaceAndPolymorphism.exe
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\bin\Debug\InterfaceAndPolymorphism.pdb
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\obj\Debug\InterfaceAndPolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\obj\Debug\InterfaceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\obj\Debug\InterfaceAndPolymorphism.exe
+C:\Users\user\source\repos\csharp\InterfaceAndPolymorphism\obj\Debug\InterfaceAndPolymorphism.pdb

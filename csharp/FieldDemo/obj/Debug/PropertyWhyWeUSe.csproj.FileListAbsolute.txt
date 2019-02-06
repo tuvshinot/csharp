@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\FieldDemo\bin\Debug\FieldDemo.exe.config
+C:\Users\user\source\repos\csharp\FieldDemo\bin\Debug\FieldDemo.exe
+C:\Users\user\source\repos\csharp\FieldDemo\bin\Debug\FieldDemo.pdb
+C:\Users\user\source\repos\csharp\FieldDemo\obj\Debug\PropertyWhyWeUSe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\FieldDemo\obj\Debug\FieldDemo.exe
+C:\Users\user\source\repos\csharp\FieldDemo\obj\Debug\FieldDemo.pdb

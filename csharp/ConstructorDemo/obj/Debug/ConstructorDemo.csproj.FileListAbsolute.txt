@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\ConstructorDemo\bin\Debug\ConstructorDemo.exe.config
+C:\Users\user\source\repos\csharp\ConstructorDemo\bin\Debug\ConstructorDemo.exe
+C:\Users\user\source\repos\csharp\ConstructorDemo\bin\Debug\ConstructorDemo.pdb
+C:\Users\user\source\repos\csharp\ConstructorDemo\obj\Debug\ConstructorDemo.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\ConstructorDemo\obj\Debug\ConstructorDemo.exe
+C:\Users\user\source\repos\csharp\ConstructorDemo\obj\Debug\ConstructorDemo.pdb

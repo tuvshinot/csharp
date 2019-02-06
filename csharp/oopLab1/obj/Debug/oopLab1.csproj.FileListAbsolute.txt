@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\reviewBasics\oopLab1\bin\Debug\oopLab1.exe.config
+C:\Users\user\source\repos\reviewBasics\oopLab1\bin\Debug\oopLab1.exe
+C:\Users\user\source\repos\reviewBasics\oopLab1\bin\Debug\oopLab1.pdb
+C:\Users\user\source\repos\reviewBasics\oopLab1\obj\Debug\oopLab1.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\reviewBasics\oopLab1\obj\Debug\oopLab1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\reviewBasics\oopLab1\obj\Debug\oopLab1.exe
+C:\Users\user\source\repos\reviewBasics\oopLab1\obj\Debug\oopLab1.pdb
+C:\Users\user\source\repos\csharp\oopLab1\bin\Debug\oopLab1.exe.config
+C:\Users\user\source\repos\csharp\oopLab1\bin\Debug\oopLab1.exe
+C:\Users\user\source\repos\csharp\oopLab1\bin\Debug\oopLab1.pdb
+C:\Users\user\source\repos\csharp\oopLab1\obj\Debug\oopLab1.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\oopLab1\obj\Debug\oopLab1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\oopLab1\obj\Debug\oopLab1.exe
+C:\Users\user\source\repos\csharp\oopLab1\obj\Debug\oopLab1.pdb

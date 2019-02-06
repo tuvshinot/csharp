@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\3dochirnihPotok\bin\Debug\3dochirnihPotok.exe.config
+C:\Users\user\source\repos\csharp\3dochirnihPotok\bin\Debug\3dochirnihPotok.exe
+C:\Users\user\source\repos\csharp\3dochirnihPotok\bin\Debug\3dochirnihPotok.pdb
+C:\Users\user\source\repos\csharp\3dochirnihPotok\obj\Debug\3dochirnihPotok.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\3dochirnihPotok\obj\Debug\3dochirnihPotok.exe
+C:\Users\user\source\repos\csharp\3dochirnihPotok\obj\Debug\3dochirnihPotok.pdb

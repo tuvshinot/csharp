@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (RepoForC++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  RepoForC++.cpp
+c:\users\user\source\repos\repoforc++\repoforc++\repoforc++.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RepoForC++.vcxproj -> C:\Users\user\source\repos\RepoForC++\x64\Debug\WordPyramid.exe

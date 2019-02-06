@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
+C:\Users\user\source\repos\csharp\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+C:\Users\user\source\repos\csharp\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+C:\Users\user\source\repos\csharp\WorkingWithFiles\obj\Debug\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+C:\Users\user\source\repos\csharp\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\bin\Debug\InterfaceAndExtend.exe.config
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\bin\Debug\InterfaceAndExtend.exe
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\bin\Debug\InterfaceAndExtend.pdb
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\obj\Debug\InterfaceAndExtend.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\obj\Debug\InterfaceAndExtend.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\obj\Debug\InterfaceAndExtend.exe
+C:\Users\user\source\repos\csharp\InterfaceAndExtend\obj\Debug\InterfaceAndExtend.pdb

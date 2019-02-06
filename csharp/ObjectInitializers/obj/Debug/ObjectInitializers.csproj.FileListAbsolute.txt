@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\user\source\repos\csharp\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\user\source\repos\csharp\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\user\source\repos\csharp\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\user\source\repos\csharp\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

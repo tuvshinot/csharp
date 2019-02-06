@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\oop-lab3\bin\Debug\oop-lab3.exe.config
+C:\Users\user\source\repos\csharp\oop-lab3\bin\Debug\oop-lab3.exe
+C:\Users\user\source\repos\csharp\oop-lab3\bin\Debug\oop-lab3.pdb
+C:\Users\user\source\repos\csharp\oop-lab3\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\oop-lab3\obj\Debug\oop-lab3.exe
+C:\Users\user\source\repos\csharp\oop-lab3\obj\Debug\oop-lab3.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\InterAndAdvan\bin\Debug\InterAndAdvan.exe.config
+C:\Users\user\source\repos\csharp\InterAndAdvan\bin\Debug\InterAndAdvan.exe
+C:\Users\user\source\repos\csharp\InterAndAdvan\bin\Debug\InterAndAdvan.pdb
+C:\Users\user\source\repos\csharp\InterAndAdvan\obj\Debug\WhyWeStatic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\InterAndAdvan\obj\Debug\InterAndAdvan.exe
+C:\Users\user\source\repos\csharp\InterAndAdvan\obj\Debug\InterAndAdvan.pdb

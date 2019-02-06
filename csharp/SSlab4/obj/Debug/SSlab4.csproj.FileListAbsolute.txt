@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\SSlab4\bin\Debug\SSlab4.exe.config
+C:\Users\user\source\repos\csharp\SSlab4\bin\Debug\SSlab4.exe
+C:\Users\user\source\repos\csharp\SSlab4\bin\Debug\SSlab4.pdb
+C:\Users\user\source\repos\csharp\SSlab4\obj\Debug\SSlab4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\SSlab4\obj\Debug\SSlab4.exe
+C:\Users\user\source\repos\csharp\SSlab4\obj\Debug\SSlab4.pdb
+C:\Users\user\source\repos\csharp\SSlab4\obj\Debug\SSlab4.csprojResolveAssemblyReference.cache

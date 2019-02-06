@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\csharp\DelagateActionFunc\bin\Debug\DelagateActionFunc.exe.config
+C:\Users\user\source\repos\csharp\DelagateActionFunc\bin\Debug\DelagateActionFunc.exe
+C:\Users\user\source\repos\csharp\DelagateActionFunc\bin\Debug\DelagateActionFunc.pdb
+C:\Users\user\source\repos\csharp\DelagateActionFunc\obj\Debug\DelagateActionFunc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\DelagateActionFunc\obj\Debug\DelagateActionFunc.exe
+C:\Users\user\source\repos\csharp\DelagateActionFunc\obj\Debug\DelagateActionFunc.pdb
+C:\Users\user\source\repos\csharp\DelagateActionFunc\obj\Debug\DelagateActionFunc.csprojResolveAssemblyReference.cache

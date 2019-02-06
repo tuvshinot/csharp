@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\Open_tk_triangle.exe.config
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\Open_tk_triangle.exe
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\Open_tk_triangle.pdb
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\OpenTK.dll
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\OpenTK.pdb
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\OpenTK.xml
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\bin\Debug\OpenTK.dll.config
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\obj\Debug\Open_tk_triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\obj\Debug\Open_tk_triangle.exe
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\obj\Debug\Open_tk_triangle.pdb
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\obj\Debug\Open_tk_triangle.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Open_tk_triangle\Open_tk_triangle\obj\Debug\Open_tk_triangle.csproj.CopyComplete

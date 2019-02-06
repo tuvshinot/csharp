@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csharp\Composition\bin\Debug\Composition.exe.config
+C:\Users\user\source\repos\csharp\Composition\bin\Debug\Composition.exe
+C:\Users\user\source\repos\csharp\Composition\bin\Debug\Composition.pdb
+C:\Users\user\source\repos\csharp\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\Composition\obj\Debug\Composition.exe
+C:\Users\user\source\repos\csharp\Composition\obj\Debug\Composition.pdb

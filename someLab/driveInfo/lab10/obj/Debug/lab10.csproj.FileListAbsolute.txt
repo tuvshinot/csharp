@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\user\source\repos\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\user\source\repos\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\user\source\repos\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\user\source\repos\lab10\lab10\obj\Debug\lab10.pdb
+C:\Users\user\source\repos\someLab\driveInfo\lab10\bin\Debug\lab10.exe.config
+C:\Users\user\source\repos\someLab\driveInfo\lab10\bin\Debug\lab10.exe
+C:\Users\user\source\repos\someLab\driveInfo\lab10\bin\Debug\lab10.pdb
+C:\Users\user\source\repos\someLab\driveInfo\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someLab\driveInfo\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someLab\driveInfo\lab10\obj\Debug\lab10.exe
+C:\Users\user\source\repos\someLab\driveInfo\lab10\obj\Debug\lab10.pdb

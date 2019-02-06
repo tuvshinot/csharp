@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Triangle.DrawingForm.resources
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Gradient.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Gradient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\user\source\repos\Open_tk_triangle\Triangle\obj\Debug\Triangle.pdb

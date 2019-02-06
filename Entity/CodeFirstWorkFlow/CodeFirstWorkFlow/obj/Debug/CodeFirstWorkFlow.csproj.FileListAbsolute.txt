@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\CodeFirstWorkFlow.exe.config
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\CodeFirstWorkFlow.exe
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\CodeFirstWorkFlow.pdb
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.exe
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.pdb
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.Migrations.InitialModel.resources
+C:\Users\user\source\repos\CodeFirstWorkFlow\CodeFirstWorkFlow\obj\Debug\CodeFirstWorkFlow.csproj.GenerateResource.Cache

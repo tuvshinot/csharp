@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\bin\Debug\lab-kg-2.exe.config
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\bin\Debug\lab-kg-2.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\bin\Debug\lab-kg-2.pdb
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab-kg-2.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab_kg_2.Form1.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab_kg_2.Properties.Resources.resources
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab-kg-2.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab-kg-2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab-kg-2.exe
+C:\Users\user\source\repos\Open_tk_triangle\lab-kg-2\obj\Debug\lab-kg-2.pdb

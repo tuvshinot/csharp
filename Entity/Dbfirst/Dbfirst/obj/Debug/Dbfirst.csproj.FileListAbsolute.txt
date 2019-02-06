@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\Dbfirst.exe.config
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\Dbfirst.exe
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\Dbfirst.pdb
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Dbfirst\Dbfirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Dbfirst\Dbfirst\obj\Debug\Dbfirst.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dbfirst\Dbfirst\obj\Debug\Dbfirst.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dbfirst\Dbfirst\obj\Debug\Dbfirst.exe
+C:\Users\user\source\repos\Dbfirst\Dbfirst\obj\Debug\Dbfirst.pdb

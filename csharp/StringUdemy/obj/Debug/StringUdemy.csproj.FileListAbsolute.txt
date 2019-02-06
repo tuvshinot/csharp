@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\reviewBasics\StringUdemy\bin\Debug\StringUdemy.exe.config
+C:\Users\user\source\repos\reviewBasics\StringUdemy\bin\Debug\StringUdemy.exe
+C:\Users\user\source\repos\reviewBasics\StringUdemy\bin\Debug\StringUdemy.pdb
+C:\Users\user\source\repos\reviewBasics\StringUdemy\obj\Debug\StringUdemy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\reviewBasics\StringUdemy\obj\Debug\StringUdemy.exe
+C:\Users\user\source\repos\reviewBasics\StringUdemy\obj\Debug\StringUdemy.pdb
+C:\Users\user\source\repos\csharp\StringUdemy\bin\Debug\StringUdemy.exe.config
+C:\Users\user\source\repos\csharp\StringUdemy\bin\Debug\StringUdemy.exe
+C:\Users\user\source\repos\csharp\StringUdemy\bin\Debug\StringUdemy.pdb
+C:\Users\user\source\repos\csharp\StringUdemy\obj\Debug\StringUdemy.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\csharp\StringUdemy\obj\Debug\StringUdemy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp\StringUdemy\obj\Debug\StringUdemy.exe
+C:\Users\user\source\repos\csharp\StringUdemy\obj\Debug\StringUdemy.pdb

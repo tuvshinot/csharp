@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.RenamedAthor_idIntoAuthorIdInCourses.resources
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.ChangedTagCourseToCourseTags.resources
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.AddedCoverToCourseOneToOneRelationship.resources
+C:\Users\user\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.ChangedManyToManyRelationshipMiddleTableIds.resources

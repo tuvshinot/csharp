@@ -1,0 +1,14 @@
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\bin\Debug\LAB3MVD.exe.config
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\bin\Debug\LAB3MVD.exe
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\bin\Debug\LAB3MVD.pdb
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\obj\Debug\LAB3MVD.csprojResolveAssemblyReference.cache
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\obj\Debug\LAB3MVD.csproj.CoreCompileInputs.cache
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\obj\Debug\LAB3MVD.exe
+D:\Учёба\III курс\ООП\LAB3MVD\LAB3MVD\obj\Debug\LAB3MVD.pdb
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\bin\Debug\LAB3MVD.exe.config
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\bin\Debug\LAB3MVD.exe
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\bin\Debug\LAB3MVD.pdb
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\obj\Debug\LAB3MVD.csprojAssemblyReference.cache
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\obj\Debug\LAB3MVD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\obj\Debug\LAB3MVD.exe
+C:\Users\user\source\repos\someLab\serialization\LAB3MVD\obj\Debug\LAB3MVD.pdb
